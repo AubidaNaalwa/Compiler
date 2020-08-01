@@ -1,0 +1,25 @@
+﻿Students ids:
+1.318448255
+2.208941682
+
+
+Students names:
+1.Aubida Naalwa
+2.Amro Habib
+
+
+Operating system:
+Windows 10 HOME - 64Bit
+
+
+Development enviroment:
+Visual Studio 19
+
+Notes for lex: 
+1- We create a fuction called TOKEN_Handler to write into the file the the information about the token type ,
+we added the function to the Token.h file .
+2-We create a a function in the lex file to write the Characters that undefined as a Tokens and we called it lex_err.
+3-In case of comment field it will just ignore all the written between the COMMENTS bars .
+4-We create a Function called commentHandeler that handel all type of COMMENTS including skipping the lines of the Comments.
+after starting the function ,it will update the the attribute "tokenAtLine" every time that the comment have "enter"('\n').
+

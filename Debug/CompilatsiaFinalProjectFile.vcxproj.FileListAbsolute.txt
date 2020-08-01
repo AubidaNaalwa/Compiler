@@ -1,0 +1,2 @@
+C:\Users\aubid\source\repos\CompilatsiaFinalProjectFile\Debug\CompilatsiaFinalProjectFile.exe
+C:\Users\aubid\source\repos\CompilatsiaFinalProjectFile\Debug\CompilatsiaFinalProjectFile.pdb

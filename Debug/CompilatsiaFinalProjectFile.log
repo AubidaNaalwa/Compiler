@@ -1,0 +1,6 @@
+﻿  Parser.c
+C:\Users\aubid\source\repos\CompilatsiaFinalProjectFile\Parser.c(1027,82): warning C4020: 'ht_insert': too many actual parameters
+C:\Users\aubid\source\repos\CompilatsiaFinalProjectFile\Parser.c(1031,80): warning C4020: 'ht_insert': too many actual parameters
+C:\Users\aubid\source\repos\CompilatsiaFinalProjectFile\Parser.c(1050,73): warning C4020: 'insert_parms_func_to_table': too many actual parameters
+C:\Users\aubid\source\repos\CompilatsiaFinalProjectFile\Parser.c(1334,92): warning C4020: 'ht_insert': too many actual parameters
+  CompilatsiaFinalProjectFile.vcxproj -> C:\Users\aubid\source\repos\CompilatsiaFinalProjectFile\Debug\CompilatsiaFinalProjectFile.exe
